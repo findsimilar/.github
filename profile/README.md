@@ -1,10 +1,13 @@
-# Your organization name
+# FindSimilar
 
-Organization short description
+User-friendly library to find similar objects
 
 ## Mission
 
-Organization mission
+The mission of the "Find Similar" project is to provide a powerful and versatile open source library 
+that empowers developers to efficiently find similar objects and perform comparisons across a variety of data types. 
+Whether dealing with texts, images, audio, or more, our project aims to simplify the process of identifying
+similarities and enhancing decision-making.
 
 ## All organization projects are free
 
@@ -15,7 +18,9 @@ possibilities.
 
 ## Features
 
-Bee free to check our [repositories](https://github.com/orgs/libresource/repositories) to find something useful 
+- [find-similar](https://github.com/findsimilar/find-similar) - The main package
+- [Demo webapp and tutorial](http://demo.findsimilar.org/) to lear main `find-similar` features
+Bee free to check our another [repositories](https://github.com/orgs/libresource/repositories) to find something useful 
 and interesting.
 
 ## FAQ
