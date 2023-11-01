@@ -7,8 +7,8 @@
 - [x] [Features](https://github.com/libresource/open-source-checklist#features)
 - [x] [Version Control Access](https://github.com/libresource/open-source-checklist#version-control-access)
 - [x] [Bug Tracker Access](https://github.com/libresource/open-source-checklist#bug-tracker-access)
-- [ ] [Communication Channels](https://github.com/libresource/open-source-checklist#communication-channels)
-- - [ ] Discussions
+- [x] [Communication Channels](https://github.com/libresource/open-source-checklist#communication-channels)
+- - [x] Discussions
 - - [ ] Mailing List
 - - [ ] Real-time chat
 - - [ ] Forum
@@ -25,10 +25,4 @@
 - [x] [Support](https://github.com/libresource/open-source-checklist#support)
 
 [CI and CD](https://github.com/libresource/open-source-checklist#ci-and-cd)
-- [ ] Tests
-- [ ] Test Coverage
-- [ ] Test Coverage 100%
-- [ ] Linters
-- [ ] Build
-- [ ] Deploy
 - [x] [New User Greetings](https://github.com/libresource/open-source-checklist#new-user-greetings)

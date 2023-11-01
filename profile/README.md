@@ -19,7 +19,7 @@ possibilities.
 ## Features
 
 - [find-similar](https://github.com/findsimilar/find-similar) - The main package
-- [Demo webapp and tutorial](http://demo.findsimilar.org/) to lear main `find-similar` features
+- [Demo webapp and tutorial](http://demo.findsimilar.org/) to learn main `find-similar` features
 Bee free to check our another [repositories](https://github.com/orgs/libresource/repositories) to find something useful 
 and interesting.
 
